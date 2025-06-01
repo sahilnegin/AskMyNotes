@@ -15,7 +15,7 @@ An offline-first document chat application that allows you to have conversations
 
 ```
 askmynotes/
-├── frontend/           # React + TypeScript + Vite frontend
+├── frontend/           # React + JSX + Vite frontend
 └── backend/           # Python FastAPI backend
 ```
 
@@ -62,7 +62,7 @@ npm run dev
 ## Tech Stack 💻
 
 ### Frontend
-- React + TypeScript
+- React + Javascript
 - Vite
 - TailwindCSS
 - shadcn/ui components
